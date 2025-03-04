@@ -13,7 +13,7 @@ public final class CdFactory extends DiskFactory {
     }
 
     @Override
-    protected Disk create() {
+    public Disk create() {
         return new CD(taille, vitesseLecteure, prix);
     }
 }

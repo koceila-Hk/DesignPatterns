@@ -1,6 +1,6 @@
 package fr.nexa.db.creation.factory;
 
-public class CD extends Disk{
+public final class CD extends Disk{
     private String prix;
 
     public CD(int taille, int vitesseLecteure, String prix) {

@@ -10,7 +10,7 @@ public final class DvdFactory extends DiskFactory {
     }
 
     @Override
-    protected Disk create() {
+    public Disk create() {
         return new DVD(taille, vitesseLecteure, vitesseEcriteure);
     }
 }

@@ -8,5 +8,5 @@ public abstract class DiskFactory {
     protected int vitesseLecteure;
     protected int vitesseEcriteure;
 
-    protected abstract Disk create();
+    public abstract Disk create();
 }

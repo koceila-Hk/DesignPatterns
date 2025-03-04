@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TpDiskFactory/TpDiskFactory.iml" filepath="$PROJECT_DIR$/TpDiskFactory/TpDiskFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpAbstractFactory/TpAbstractFactory.iml" filepath="$PROJECT_DIR$/TpAbstractFactory/TpAbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" filepath="$PROJECT_DIR$/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" />
     </modules>
   </component>
 </project>
