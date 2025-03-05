@@ -15,7 +15,7 @@ public final class CamionComposit implements ICamionComposite {
         if (composant instanceof Tracteur) {
             for (ICamionComposite camion : composants) {
                 if (camion instanceof Tracteur) {
-                    throw new IllegalArgumentException("Un tracteur est déjà présent.");
+                    throw new IllegalArgumentException("Un tracteur est déjà présent !");
                 }
             }
         } if (composant instanceof  Remorque) {
@@ -26,7 +26,7 @@ public final class CamionComposit implements ICamionComposite {
                 }
             }
             if (nbRemorque >= 2) {
-                throw new IllegalArgumentException("Le camion posséde déjà 2 remorques");
+                throw new IllegalArgumentException("Le camion posséde déjà 2 remorques !");
             }
         }
         this.composants.add(composant);
