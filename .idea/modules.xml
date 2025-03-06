@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComportementalObserver/ComportementalObserver.iml" filepath="$PROJECT_DIR$/ComportementalObserver/ComportementalObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComportementalState/ComportementalState.iml" filepath="$PROJECT_DIR$/ComportementalState/ComportementalState.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creation-Singleton-and-Factory/Singleton-and-Factory.iml" filepath="$PROJECT_DIR$/Creation-Singleton-and-Factory/Singleton-and-Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructurationComposite/StructurationComposite.iml" filepath="$PROJECT_DIR$/StructurationComposite/StructurationComposite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TpAbstractFactory/TpAbstractFactory.iml" filepath="$PROJECT_DIR$/TpAbstractFactory/TpAbstractFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" filepath="$PROJECT_DIR$/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructurationDecorator/StructurationDecorator.iml" filepath="$PROJECT_DIR$/StructurationDecorator/StructurationDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creation-Singleton-and-Factory/TpAbstractFactory/TpAbstractFactory.iml" filepath="$PROJECT_DIR$/Creation-Singleton-and-Factory/TpAbstractFactory/TpAbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creation-Singleton-and-Factory/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" filepath="$PROJECT_DIR$/Creation-Singleton-and-Factory/TpDiskFactoryMethod/TpDiskFactoryMethod.iml" />
     </modules>
   </component>
 </project>
